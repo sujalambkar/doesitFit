@@ -1,2 +1,2 @@
-# doesitFit
-INtegrateable tool to check feasibility of clothing size. 
+# DoesitFit
+Integrateable tool to check feasibility of clothing size. 
